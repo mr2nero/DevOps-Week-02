@@ -44,7 +44,6 @@ branches merged back via pull request.
 Tunde Ayangbenro — DevOps Internship, Davine Technologies# DevOps-Week-02
 Week 2 DevOps internship project — Git and GitHub collaboration workflow
 git add README.md
-git commit -m "Add project documentation to README"
-git push origin main
+
 
 
