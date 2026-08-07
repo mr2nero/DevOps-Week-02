@@ -5,9 +5,19 @@ GitHub and collaborative version control workflows.
 
 ## Project Structure## Prerequisites
 
-- Python 3.12+
-- Git 2.43+
-- Bash
+## Project Structure
+
+    .
+    ├── docs/
+    │   └── deployment.md      # Deployment notes and setup instructions
+    ├── src/
+    │   ├── app.py             # Application entry point
+    │   ├── config.env         # Environment configuration
+    │   └── deploy.sh          # Deployment script
+    ├── requirements.txt       # Python dependencies
+    └── README.md
+
+## Prerequisites
 
 ## Configuration
 
