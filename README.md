@@ -5,8 +5,6 @@ GitHub and collaborative version control workflows.
 
 ## Project Structure## Prerequisites
 
-## Project Structure
-
     .
     ├── docs/
     │   └── deployment.md      # Deployment notes and setup instructions
@@ -16,8 +14,6 @@ GitHub and collaborative version control workflows.
     │   └── deploy.sh          # Deployment script
     ├── requirements.txt       # Python dependencies
     └── README.md
-
-## Prerequisites
 
 ## Configuration
 
