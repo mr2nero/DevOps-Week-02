@@ -1,4 +1,19 @@
-# DevOps-Week-02
+## Project Structure
+
+    .
+    ├── docs/
+    │   └── deployment.md      # Deployment notes and setup instructions
+    ├── src/
+    │   ├── app.py             # Application entry point
+    │   ├── config.env         # Environment configuration
+    │   └── deploy.sh          # Deployment script		
+    ├── requirements.txt       # Python dependencies
+    └── README.md
+
+## Prerequisites# DevOps-Week-02			
+
+
+				
 
 Week 2 project for the Davine Technologies DevOps internship, covering Git,
 GitHub and collaborative version control workflows.
@@ -44,6 +59,7 @@ branches merged back via pull request.
 Tunde Ayangbenro — DevOps Internship, Davine Technologies# DevOps-Week-02
 Week 2 DevOps internship project — Git and GitHub collaboration workflow
 git add README.md
+
 
 
 
